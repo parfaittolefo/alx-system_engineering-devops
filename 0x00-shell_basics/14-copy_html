@@ -1,2 +1,2 @@
 #!/bin/bash
-cp -u *.hmlt ../
+cp -u *.html ../
